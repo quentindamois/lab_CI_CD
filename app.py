@@ -42,7 +42,7 @@ def feature_1():
     # feature 1 version 1
     return "result_feature_1"
 
-def feature_1():
+def feature_2():
     # feature 2 version 1
     return "result_feature_2"
 
