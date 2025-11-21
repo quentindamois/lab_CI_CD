@@ -38,5 +38,9 @@ def create_app():
 def useless_function_1():
      return ""
 
+def feature_1():
+    # feature 1 version 1
+    return "result_feature_1"
+
 if __name__ == '__main__':
     app.run(debug=True)
