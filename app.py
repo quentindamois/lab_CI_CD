@@ -42,5 +42,9 @@ def feature_1():
     # feature 1 version 1
     return "result_feature_1"
 
+def feature_1():
+    # feature 2 version 1
+    return "result_feature_2"
+
 if __name__ == '__main__':
     app.run(debug=True)
