@@ -11,7 +11,7 @@ def index():
 
 
 def add(a: int, b: int):
-    return a * b
+    return a + b
 
 @app.route('/add', methods=['POST'])
 def add_item():
